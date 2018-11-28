@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="tutorials">Tutorials</string>
+    <string name="paperwork1">Paperwork</string>
+    <string name="contract">Contract</string>
+    <string name="banking_information">Banking Information</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="todo">TODO</string>
+    <string name="proof_of_identification">Proof of Identification</string>
+    <string name="upload">Upload</string>
+    <string name="paperwork">Paperwork</string>
+    <string name="upload1">Upload</string>
+    <string name="proof_of_address">Proof of Address</string>
+    <string name="other_certificates">Other Certificates</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="todo2">TODO</string>
+</resources>
